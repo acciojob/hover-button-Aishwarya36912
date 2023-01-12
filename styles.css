@@ -1,8 +1,8 @@
-button{gbackground-color:black;
+btn{gbackground-color:black;
 color:white;
 border:none;
 border-radius:5px; }
-button:hover {
+btn:hover {
 background-color:yellow;
 color:black;
 border-radius:30px;
